@@ -1,2 +1,2 @@
 console.log("Hii");
-console.log("Hello World Earth");
+console.log("Hello World Planet");
